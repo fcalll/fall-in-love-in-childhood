@@ -14,9 +14,9 @@ description: 简介
 
 依然还是轻松幽默的文风，依然还是以小萝莉为主线，依然还是免费好看的萝莉文。
 
-再次承诺，全本免费
+再次承诺，全本免费。小说页面：[https://bh.xiaololi.cn/](https://bh.xiaololi.cn/)
 
 
 
-![&#x767E;&#x5408;&#x8D5B;&#x9AD8;](.gitbook/assets/cd4f4be0eab2452b879cf2efb3d400d7_th.gif)
+![&#x767E;&#x5408;&#x8D5B;&#x9AD8;&#xFF0C;&#x4FB5;&#x5220;](.gitbook/assets/cd4f4be0eab2452b879cf2efb3d400d7_th.gif)
 

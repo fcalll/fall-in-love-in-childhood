@@ -7,4 +7,5 @@
 * [第四章 萌萌幼稚园](chapter-4.md)
 * [第五章 颖颖吃醋](chapter-5.md)
 * [第六章 溜出学校](chapter-6.md)
+* [第七章 一起洗澡](chapter-6-1.md)
 

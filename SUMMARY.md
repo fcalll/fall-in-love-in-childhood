@@ -11,4 +11,5 @@
 * [第八章 友谊的小船](chapter-8.md)
 * [第九章 井观尘受伤](chapter-9.md)
 * [第十章 暴雨来袭](chapter-10.md)
+* [第十一章 差点暴露](chapter-11.md)
 

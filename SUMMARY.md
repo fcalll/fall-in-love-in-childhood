@@ -14,4 +14,8 @@
 * [第十一章 差点暴露](chapter-11.md)
 * [第十二章 有人跟踪](chapter-12.md)
 * [第十三章 柠儿](chapter-13.md)
+* [第十四章 摸头](chapter-14.md)
+* [第十五章 理发](chapter-15.md)
+* [第十六章 炒股](chapter-16.md)
+* [第十七章 一起尿床的缘分](chapter-17.md)
 

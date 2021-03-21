@@ -18,4 +18,5 @@
 * [第十五章 理发](chapter-15.md)
 * [第十六章 炒股](chapter-16.md)
 * [第十七章 一起尿床的缘分](chapter-17.md)
+* [第十八章 我是你爹](chapter-18.md)
 
